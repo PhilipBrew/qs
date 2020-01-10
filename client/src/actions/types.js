@@ -1,0 +1,41 @@
+export const GET_ERRORS = 'GET_ERRORS';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const FORGOT_PASSWORD = 'FORGOT_PASSWORD';
+
+//QSSERVER
+export const GET_QSSERVER = 'GET_QSSERVER';
+export const QSSERVER_LOADING = 'QSSERVER_LOADING';
+export const SET_QSSERVER = 'SET_QSSERVER';
+
+//PAGES
+export const GET_PAGES = 'GET_PAGES';
+export const GET_SECURED_PAGES = 'GET_SECURED_PAGES';
+export const GET_PAGE = 'GET_PAGE';
+export const PAGES_LOADING = 'PAGES_LOADING';
+
+//SECURITY GROUPS
+export const GET_GROUPS = 'GET_GROUPS';
+export const GET_GROUP = 'GET_GROUP';
+export const GROUPS_LOADING = 'GROUPS_LOADING';
+
+//OBJECTS
+export const GET_OBJECTS = 'GET_OBJECTS';
+
+export const GET_OBJECT = 'GET_OBJECT';
+export const OBJECTS_LOADING = 'OBJECTS_LOADING';
+export const CLEAR = 'CLEAR';
+
+export const USERS_LOADING = 'USERS_LOADING';
+export const GET_USERS = 'GET_USERS';
+
+//QLIK SENSE
+export const QLIK_LOADING = 'QLIK_LOADING';
+export const GET_QLIK_APPS = 'GET_QLIK_APPS';
+export const GET_QLIK_APP = 'GET_QLIK_APP';
+export const GET_QLIK_SHEETS = 'GET_QLIK_SHEETS';
+export const GET_QLIK_OBJECTS = 'GET_QLIK_OBJECTS';
+export const GET_QLIK_OBJECT = 'GET_QLIK_OBJECT';
+
+//LAYOUT TYPES
+export const TOGGLE_SIDEBAR = 'TOGGLE_SIDEBAR';
+

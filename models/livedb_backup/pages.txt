@@ -1,0 +1,91 @@
+{
+    "_id": ObjectId("5c6e8b12e374bc6f0861f7d6"),
+    "status": "published",
+    "menu": "yes",
+    "template": "dashboard",
+    "createdBy": ObjectId("5c6c002cd8f0ad29f8c637ce"),
+    "title": "KPI Dashboard",
+    "description": "High level figures on sales.",
+    "objects": [],
+    "__v": NumberInt(1),
+    "groups": []
+}
+{
+    "_id": ObjectId("5c6f584310be871a5cc4a09e"),
+    "status": "draft",
+    "menu": "no",
+    "template": "report",
+    "createdBy": ObjectId("5c6c002cd8f0ad29f8c637ce"),
+    "title": "Report ",
+    "description": "Report Page Single Column  ",
+    "objects": [],
+    "__v": NumberInt(1),
+    "groups": [],
+    "parent": "",
+    "qsApp": ""
+}
+{
+    "_id": ObjectId("5c8f63129d2693002b919601"),
+    "status": "published",
+    "menu": "yes",
+    "template": "report",
+    "groups": [],
+    "createdBy": ObjectId("5c73badb39c0863b24ce269c"),
+    "title": "Trends Dashboard",
+    "description": "Executive Dashboard Page for executive summary only. ",
+    "__v": NumberInt(0),
+    "parent": ObjectId("5c6e8b12e374bc6f0861f7d6")
+}
+{
+    "_id": ObjectId("5ca60cff64692b002c75d22f"),
+    "status": "published",
+    "menu": "yes",
+    "template": "dashboard",
+    "groups": [],
+    "createdBy": ObjectId("5c73badb39c0863b24ce269c"),
+    "title": "Executive Dashboard",
+    "description": "Qlik Sense Executive Dashboard Application",
+    "qsApp": "7620d4a6-7098-4390-820a-bcb16a2019fd",
+    "parent": ObjectId("5c6e8b12e374bc6f0861f7d6"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca6283d64692b002c75d235"),
+    "status": "published",
+    "menu": "yes",
+    "template": "analysis",
+    "groups": [],
+    "createdBy": ObjectId("5c73badb39c0863b24ce269c"),
+    "title": "Warehouse Sales",
+    "description": "Qlik Sense Section Access",
+    "qsApp": "1ca55ad1-eb58-4a26-b6ad-386d87282639",
+    "__v": NumberInt(0),
+    "parent": ""
+}
+{
+    "_id": ObjectId("5c6fb9d1f26d5843ece76975"),
+    "status": "published",
+    "menu": "yes",
+    "template": "analysis",
+    "createdBy": ObjectId("5c6c002cd8f0ad29f8c637ce"),
+    "title": "Sales Analysis",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+    "objects": [],
+    "__v": NumberInt(1),
+    "groups": [],
+    "parent": "",
+    "qsApp": ""
+}
+{
+    "_id": ObjectId("5cb0794f4bb713002c09ce4f"),
+    "status": "published",
+    "menu": "yes",
+    "template": "analysis",
+    "groups": [],
+    "createdBy": ObjectId("5c87ce641889c9002b512c72"),
+    "title": "Rics Test Page",
+    "description": "\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"",
+    "parent": "5c6fb9d1f26d5843ece76975",
+    "__v": NumberInt(0),
+    "qsApp": "2df75edb-c5a5-4aa7-b16c-a19b2fc17274"
+}

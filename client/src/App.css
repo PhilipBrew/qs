@@ -1,0 +1,69 @@
+.c-icon i {
+  color : #f5b848 !important;
+}
+.qtd-preloader{
+  /*margin-top: 20% !important;*/
+  margin-bottom : 0% !important;
+}
+.qtd-preloader .qtd-preloader-ball1{
+  background-color: transparent;
+  border: 5px solid #f19012 !important;
+  opacity: .9 !important;
+  border-top: 5px solid transparent !important;
+  border-left: 5px solid transparent !important;
+  border-radius: 50px !important;
+  width: 50px !important;
+  height: 50px !important;
+  margin: 0 auto !important;
+  -moz-animation: spin .5s infinite linear !important;
+  -webkit-animation: spin .5s infinite linear !important;
+}
+.qtd-preloader .qtd-preloader-ball2{
+  background-color: transparent;
+  border: 5px solid #f19012 !important;
+  opacity: .9 !important;
+  border-top: 5px solid transparent !important;
+  border-left: 5px solid transparent !important;
+  border-radius: 50px !important;
+  width: 30px !important;
+  height: 30px !important;
+  margin: 0 auto !important;
+  /*position: relative !important;*/
+  top: -40px !important;
+  -moz-animation: spinoff .5s infinite linear !important;
+  -webkit-animation: spinoff .5s infinite linear !important;
+}
+.c-sidebar__footer{
+  background-color: #ffffff !important;
+}
+.flippy-back, .flippy-front{
+  border : none !important;
+  box-shadow : none !important;
+}
+.c-tabs__pane{
+  border-bottom : none !important;
+}
+.c-pt-cust-23{
+  padding-top: 23px !important;
+}
+.u-page-thumbnail{
+    min-height: 350px !important;
+}
+.read-more-button{
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.truncate{
+width: 100%;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+
+/*padding: 20px;*/
+/*font-size: 1.3rem;*/
+/*margin: 0;*/
+/*background: white;*/
+/*resize: horizontal;*/
+/*resize: vertical;*/
+}

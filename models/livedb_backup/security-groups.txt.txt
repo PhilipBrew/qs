@@ -1,0 +1,14 @@
+{
+    "_id": ObjectId("5c99fcdee7719637f8e68dcb"),
+    "name": "Executive Dashboard",
+    "description": "Executive Dashboard Security Group",
+    "date": ISODate("2019-03-26T10:20:14.847+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca61d8164692b002c75d233"),
+    "name": "WINE",
+    "description": "WINE SECTION ACCESS GROUP",
+    "date": ISODate("2019-04-04T15:06:41.200+00:00"),
+    "__v": NumberInt(0)
+}

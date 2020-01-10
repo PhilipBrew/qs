@@ -1,0 +1,105 @@
+{
+    "_id": ObjectId("5c73badb39c0863b24ce269c"),
+    "directory": "QS-PORTAL",
+    "role": "Admin",
+    "active": true,
+    "email": "pmusaka@instantia.co.uk",
+    "name": "Persevierance Musaka",
+    "qsId": "Percy.Musaka",
+    "password": "$2a$10$hzcE1Xl84vgZUOxO3xIe4O4MYzOjvdt9i0SuKfuifE1yP9E9Oqn5y",
+    "date": ISODate("2019-02-25T09:52:27.624+00:00"),
+    "__v": NumberInt(1),
+    "changePasswordRequest": {
+        "date": null,
+        "token": "ZIDSsLZ5EiOW6AoiBb0CS4bepd4T3xst"
+    },
+    "groups": [
+        ObjectId("5c99fcdee7719637f8e68dcb"),
+        ObjectId("5ca61d8164692b002c75d233")
+    ]
+}
+{
+    "_id": ObjectId("5c799690bf963222e0bfac97"),
+    "directory": "CATALYST-IT",
+    "role": "Admin",
+    "active": true,
+    "email": "percy.musaka@catalyst-it.co.uk",
+    "qsId": "Percy.Musaka",
+    "name": "Percy Musaka",
+    "password": "$2a$10$.av9MO3GGXnLqWEq0UGynuiuTOUgoL9hPPQl0rjqg0LhkXxhyyi3G",
+    "date": ISODate("2019-03-01T20:31:12.383+00:00"),
+    "__v": NumberInt(0),
+    "changePasswordRequest": {
+        "date": null,
+        "token": "YY7IPTtkmY4bbxskdKE5uMTfGNv4McAu"
+    },
+    "groups": [
+        ObjectId("5ca61d8164692b002c75d233")
+    ]
+}
+{
+    "_id": ObjectId("5c7f955a9e662d002b0ab194"),
+    "changePasswordRequest": {
+        "date": ISODate("2019-03-06T09:39:38.937+00:00"),
+        "token": "t5Qt3EAemI9rX4HwX8MBmV9eAAOghxuF"
+    },
+    "directory": "QS-PORTAL",
+    "role": "Admin",
+    "active": true,
+    "email": "Lee.Connor@catalystitsolutions.co.uk",
+    "qsId": "Lee.Connor",
+    "name": "Lee Connor",
+    "password": "$2a$10$tUN6iEWpUH8nskcV7ytMyeIZKGaTF8BCT/WqdwBz/NVsyYJoLGu6m",
+    "date": ISODate("2019-03-06T09:39:38.937+00:00"),
+    "__v": NumberInt(0),
+    "groups": []
+}
+{
+    "_id": ObjectId("5c7feb06900033002b6d004c"),
+    "changePasswordRequest": {
+        "date": ISODate("2019-03-06T15:45:10.313+00:00"),
+        "token": "7vdTqwJC9V250asDWDTxQHovuNO7a6mK"
+    },
+    "directory": "QS-PORTAL",
+    "role": "User",
+    "active": true,
+    "groups": [],
+    "email": "lconnor_@hotmail.com",
+    "qsId": "lee",
+    "name": "Lee Connor",
+    "password": "$2a$10$zFB.xDW3WfGmgusGDJM06eaqCTYCSZWzhkkijSQR.KmJvqrRRlHmm",
+    "date": ISODate("2019-03-06T15:45:10.313+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c87ce641889c9002b512c72"),
+    "changePasswordRequest": {
+        "date": ISODate("2019-03-12T15:21:08.129+00:00")
+    },
+    "directory": "INTERNAL",
+    "role": "Admin",
+    "active": true,
+    "groups": [],
+    "email": "support@catalyst-it.co.uk",
+    "qsId": "Catalyst.Admin",
+    "name": "CatalystT Admin",
+    "password": "$2a$10$Cekokk0sYjX95x2jm3dxX.fLMbBBBIzheKHJds3n6M5ZfQBr2v7cq",
+    "date": ISODate("2019-03-12T15:21:08.129+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca6f725b0b73e002cdf90bf"),
+    "changePasswordRequest": {
+        "date": ISODate("2019-04-05T06:35:17.070+00:00")
+    },
+    "directory": "QS-PORTAL",
+    "role": "Admin",
+    "active": false,
+    "groups": [],
+    "email": "rachael.selman@catalyst-it.co.uk",
+    "name": "Rachael",
+    "qsId": "rachael.selman",
+    "password": "$2a$10$96Uhk3ozrtZif4hOcjKxZuh6hDUwk2C5E.ZMW7C7JvEu8ZnJV5LAu",
+    "date": ISODate("2019-04-05T06:35:17.070+00:00"),
+    "__v": NumberInt(0)
+}
